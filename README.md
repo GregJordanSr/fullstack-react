@@ -8,7 +8,7 @@
 
 | Date | Task Details                           | Priority | Status      |
 | ---- | -------------------------------------- | -------- | ----------- |
-|      | _Complete the Udemy React MovieDb App_ | High     | Not Started |
+|      | x Complete the Udemy React MovieDb App | High     | Completed   |
 |      | \_Scrimba - React\_\_                  | High     | Not Started | High | Not Started |
 |      |                                        |          |
 
@@ -25,12 +25,12 @@
 | Date  | Task Details                          | Priority    | Status      |
 | ----- | ------------------------------------- | ----------- | ----------- |
 |       | Part2 - Communicating with a server:  | High        | Not Started |
-|       | - [x] Rendering a collection, modules |
-|       |       Forms                            | Not Started | High        | Not Started |
-|       | - [x] Getting data from server        | High        | Not Started | High | Not Started |
-|       | - [x] Altering data in server         | High        | Not Started | High | Not Started |
-|       | - [x] Adding styles to react app      | High        | Not Started | High | Not Started |
-|       |                                       |             |             |
+|       | - [ ] Rendering a collection, modules |             |             |
+|       |   [ ]  Forms                          | Not Started | High        |      | Not Started |
+|       | - [ ] Getting data from server        | High        | Not Started | High | Not Started |
+|       | - [ ] Altering data in server         | High        | Not Started | High | Not Started |
+|       | - [ ] Adding styles to react app      | High        | Not Started | High | Not Started |
+
 
 ---
 
